@@ -1,2 +1,5 @@
 # hello-word
-Esto es solo un repositorio.
+
+Hola este es mi primer repositorio en github 
+
+Espero compartir con ustedes lo mejor.
